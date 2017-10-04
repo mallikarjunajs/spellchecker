@@ -1,0 +1,10 @@
+{
+   "dictionary" : {
+     "properties" : {
+       "name":{
+         "type":"string",
+         "analyzer":"standard"
+       }
+     }
+   }
+}
