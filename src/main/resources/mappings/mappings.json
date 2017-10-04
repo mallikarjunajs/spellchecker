@@ -1,7 +1,7 @@
 {
    "dictionary" : {
      "properties" : {
-       "name":{
+       "word":{
          "type":"string",
          "analyzer":"standard"
        }
